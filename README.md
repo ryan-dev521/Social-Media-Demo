@@ -1,5 +1,10 @@
-<<<<<<< HEAD
+
 # Social-Media-Demo
+
+# 🚀 Live Demo(Contact for RLS whitelist)
+
+https://rythreads.vercel.app
+
 Social Media threads-style demo for portfolio
 =======
 # 🐦 Social Media App (React + Supabase + WebLLM)
@@ -104,4 +109,3 @@ Supabase RLS policies control:
 - Select: public feed access (configurable)
 
 ---
->>>>>>> ab974c4 (fixed readme)
